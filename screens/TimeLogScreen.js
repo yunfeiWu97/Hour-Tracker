@@ -1,4 +1,3 @@
-// screens/TimeLogScreen.js
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, FlatList } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient'; // Install with: npm install expo-linear-gradient

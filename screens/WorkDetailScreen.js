@@ -1,4 +1,3 @@
-// screens/WorkDetailScreen.js
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, TouchableOpacity, TextInput, ScrollView } from 'react-native';
 
